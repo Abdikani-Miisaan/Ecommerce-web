@@ -1,0 +1,89 @@
+.Top{
+			background-color: #d13108;
+			/*background-color: #562080;*/
+			height: 150px;
+		}
+		.naf{
+			background-color:#e36c4d;
+			height: 45px;
+		}
+		.naf ul{
+			padding-top: 15px;
+		}
+		ul li {
+
+			display: inline;
+		}
+		ul li a{
+			text-decoration: none;
+			color: #ffffff;
+			padding: 0px 25px;
+			/*background-color: #e36c4d;*/
+		}
+		h1 {
+			margin-left: 100px;
+			padding: 1px 20px;
+			padding-top: 50px;
+			/*padding-top: 20px;*/
+			color: #ffffff
+		}
+		ul{
+		list-style: none;
+		margin-top: 25px;
+		}
+	.Top img{
+			width: 50px;
+			height: 50px;
+		}
+	input{
+
+		margin-top: 5px;
+		float: right;
+	}
+.im img{
+	width: 250px;
+	height: 250px;
+	padding: 1px 25px;
+	padding-bottom: 30px;
+}
+
+.im{
+	background-color: #f4edf5;
+	margin-left: 50px;
+	margin-right: 50px;
+	height: 450px;
+
+}
+	.button{
+		background-color: #d13108;;
+		color: #ffffff;
+		height: 200px;
+}
+.button p{
+	color:#ffffff;
+	padding-left: 700px;
+}
+.info a{
+	width: 250px;
+	height: 250px;
+	padding: 1px 20px;
+	text-decoration: none;
+	color: black;
+}
+.below{
+	background-color: #e36c4d;
+	height: 70px;
+}
+.below img{
+	width: 50px;
+	height: 50px;
+	float: right;
+	margin-right: 15px;
+	padding-top: 10px;
+}
+.icon img{
+	width: 45px;
+	height: 40px;
+	float: left;
+	margin-left: 6px;
+}
